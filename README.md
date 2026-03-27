@@ -92,7 +92,7 @@ The Power BI dashboard provides:
 * Purchase behavior trends
 * Interactive filters (age group, category, subscription, etc.)
 
-![Customer Behavior Dashboard](images/dashboard.png)
+![Customer Behavior Dashboard](images/Customer Behavior Dashboard.png)
 
 ---
 
